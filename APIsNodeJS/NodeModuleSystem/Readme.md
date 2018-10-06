@@ -21,4 +21,4 @@ window.console.log
 [Node Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/)
 ```
 
-Remember, not all listed items are modules, come are objects. 
+Remember, not all listed items are modules, some are objects. 

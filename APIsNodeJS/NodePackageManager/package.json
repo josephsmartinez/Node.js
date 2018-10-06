@@ -1,0 +1,24 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "index.js",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/test"
+  },
+  "keywords": [
+    "npm-demo",
+    "JSON",
+    "test"
+  ],
+  "author": "Author",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.3.1",
+    "underscore": "^1.9.1"
+  }
+}
