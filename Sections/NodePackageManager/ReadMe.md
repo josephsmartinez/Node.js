@@ -29,6 +29,30 @@ Installing packages with npm
 ```
 **The carrot arrow is for the minmum package version**  
 
+## Listing the installed packages
 ### Listing dependencies (like using tree command)
 `npm list`  
-`npm list --depth=0`
+`npm list --depth=0`  
+
+### Updating Local Packages
+`npm view mongoose`  
+`npm view mongoose dependenies`  
+`npm outdated`  
+`npm outdated`  
+`npm i -g npm-check-updates`  
+`ncu -u`  
+
+## DevDependecies
+### Dependenices that are used for development only
+- The flag `--save-dev` tells node the follow package is for development only
+`npm -i jshint --save-dev`
+
+## Uninstalling package
+`npm uninstall mongoose`  
+`npm un mongoose`  
+
+## Working with Global Packages
+
+## Publishing a Packages
+
+## Updating a Published Package

@@ -3,6 +3,13 @@ Fast, scalable and secure RESTful services with Node, Express and MongoDB, from 
 
 Node.js, or Node, is a runtime environment for executing JavaScript code outside of a browser. It is ideal for building highly-scalable, data-intensive backend services (APIs) that power your client’s apps (web or mobile apps).
 
+Tricks VS Code:   
+Switch shells  
+```
+press Ctrl+Shift+P
+type "shell" in the displayed text box
+```
+
 ### Section: 1
 Getting Started
 ### Section: 2
