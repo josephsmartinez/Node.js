@@ -10,13 +10,13 @@ press Ctrl+Shift+P
 type "shell" in the displayed text box
 ```
 
-### Section: 1
+### Section: 1 - Completed
 Getting Started
-### Section: 2
+### Section: 2 - Completed
 Node Module System
-### Section: 3
+### Section: 3 - Completed
 Node Package Manager
-### Section: 4
+### Section: 4 
 Building RESTful API's Using Express
 ### Section: 5
 Express- Advanced Topics

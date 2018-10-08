@@ -6,7 +6,7 @@ const server = http.createServer((req, res) => {
         res.end();
     }
 
-if (req.url === '/api/courses'){
+if (req.url === '/api/linuxinfo'){
     res.write(JSON.stringify({
         "ansible_all_ipv4_addresses": [
             "REDACTED IP ADDRESS"
