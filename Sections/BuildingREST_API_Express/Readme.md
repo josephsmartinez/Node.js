@@ -14,4 +14,10 @@ install nodemon
 - Query strings  
 localhost:3000/api/posts/2018/1?sortBy=name
 - Query Parameters
-- 
+
+
+### URL post checking with PostMan
+
+
+install npmjoi
+[npmjoi](https://www.npmjs.com/package/joi)
